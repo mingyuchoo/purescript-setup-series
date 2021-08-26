@@ -15,24 +15,24 @@ cd my-project
 spago init
 ```
 
-## Build and test
-
-```bash
-spago build
-spago test
-```
-
 ## Install Dependencies
 
 ```bash
-spago install lists foldable-trversable
+spago install assert foldable-traversable lists
 ```
 
-## Run
+## How to use repl
 
 ```bash
-spago run
+spago repl
+```
 
+## Build and test
+
+```bash
+spago test
+spago run
+spago build
 ```
 
 ## Compiliing for the browser
