@@ -6,12 +6,15 @@
 - `npm install -g purescript`
 - `npm install -g spago`
 
+This installs the `PureScript` compiler, `the Spago` build tool and package manager.
 
 ## Create a project
 
 ```bash
 mkdir my-project
+
 cd my-project
+
 spago init
 ```
 
@@ -31,7 +34,9 @@ spago repl
 
 ```bash
 spago test
+
 spago run
+
 spago build
 ```
 
