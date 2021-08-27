@@ -1,4 +1,4 @@
-# purescript-setup-series
+# 01-added-a-purs
 
 ## Prerequisite
 
@@ -48,5 +48,6 @@ spago bundle-app
 
 ## References
 
+- <https://medium.com/@KevinBGreene/functional-programming-for-the-web-getting-started-with-purescript-7387f8888318>
 - <https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md>
 - <https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md>

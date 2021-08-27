@@ -1,4 +1,4 @@
-# purescript-setup-series
+# 00-initial
 
 ## Prerequisite
 
