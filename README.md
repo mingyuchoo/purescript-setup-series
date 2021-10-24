@@ -40,7 +40,7 @@ spago build
 spago run (build && run)
 ```
 
-## Compiliing for the browser
+## Compiling for the browser
 
 ```bash
 spago bundle-app
