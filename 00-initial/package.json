@@ -1,10 +1,8 @@
 {
-  "name": "10-halogen-init",
+  "name": "00-initial",
   "version": "1.0.0",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "description": "## Prerequisite",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,17 +11,13 @@
     "repl": "spago repl",
     "test": "spago test",
     "build": "spago build",
-    "run": "spago run",
-    "serve": "parcel dev/index.html --open",
-    "build-prod": "./build.sh"
+    "run": "spago run"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "halogen": "^0.2.0"
-  },
-  "devDependencies": {
-    "parcel": "^2.0.1",
     "purescript": "^0.14.5",
     "spago": "^0.20.3"
-  },
-  "main": "index.js"
+  }
 }
