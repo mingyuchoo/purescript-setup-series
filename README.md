@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-- install `node`
+- install `node.js`
 - `npm install -g purescript`
 - `npm install -g spago`
 
@@ -11,10 +11,8 @@ This installs the `PureScript` compiler, `the Spago` build tool and package mana
 ## Create a project
 
 ```bash
-mkdir my-project
-
-cd my-project
-
+mkdir <project-name>
+cd <project-name>
 spago init
 ```
 
@@ -34,9 +32,7 @@ spago repl
 
 ```bash
 spago test
-
 spago build
-
 spago run (build && run)
 ```
 
