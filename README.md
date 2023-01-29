@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://github.com/mingyuchoo/purescript-setup-series/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/mingyuchoo/purescript-setup-series"/></a>
   <a href="https://github.com/mingyuchoo/purescript-setup-series/issues"><img alt="Issues" src="https://img.shields.io/github/issues/mingyuchoo/purescript-setup-series?color=appveyor" /></a>
   <a href="https://github.com/mingyuchoo/purescript-setup-series/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mingyuchoo/purescript-setup-series?color=appveyor" /></a>
 </p>
