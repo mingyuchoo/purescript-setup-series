@@ -21,9 +21,9 @@
     "halogen": "^0.2.0"
   },
   "devDependencies": {
-    "parcel": "^2.8.3",
-    "purescript": "^0.15.7",
-    "spago": "^0.20.9"
+    "parcel": "^2.13.2",
+    "purescript": "^0.15.15",
+    "spago": "^0.21.0"
   },
   "main": "index.js"
 }
