@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "BSD 3-Clause",
   "description": "## Prerequisite",
   "directories": {
     "test": "test"
